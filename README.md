@@ -1,0 +1,1 @@
+This repository for hosting my resume has been designed as per the walkthrough by [@kekayan](https://github.com/kekayan) in his [Medium article](https://medium.com/@kekayan/display-your-resume-cv-pdf-in-website-using-github-73a088ac961d).
